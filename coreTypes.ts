@@ -4,7 +4,7 @@ enum Role {
   AUTHOR,
 }
 
-const person = {
+const persons = {
   name: "Cal",
   age: 24,
   hobbies: ["coding", "working out"],
